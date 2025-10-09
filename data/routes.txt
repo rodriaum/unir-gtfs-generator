@@ -1,0 +1,432 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+5001,UT1,384,Vilar do Senhor - Sete Bicas (Metro),3
+5002,UT1,393,Leça (Zona Comercial) - Polo Universitário (via Custóias),3
+5003,UT1,397,MAR Shopping - Estádio do Dragão,3
+5004,UT1,391,Paiço - Sete Bicas (Metro),3
+5005,UT1,395,Circular | Matosinhos (Câmara) (via Guifões),3
+5006,UT1,479,Circular | Matosinhos (Câmara) (via Guifões),3
+5007,UT1,386,Circular | Hospital Pedro Hispano (via Mercado),3
+5008,UT1,480,Circular | Hospital Pedro Hispano (via Mercado),3
+5009,UT1,390,Pampelido - Hospital Pedro Hispano (via MAR Shopping),3
+5010,UT1,389,Ermesinde / Maia Shopping - Matosinhos (Mercado),3
+5011,UT1,394,Valongo (Estação) - Matosinhos (Mercado),3
+5012,UT1,392,Freixieiro - Senhora da Hora (Metro),3
+5013,UT1,388,Aeroporto (Botica Metro) - Guifões,3
+5014,UT1,387,Perafita - Gatões,3
+5015,UT1,396,Custió - Matosinhos (Mercado) (via Padrão da Légua),3
+5016,UT1,398,Paiço - Matosinhos (Câmara),3
+5017,UT1,385,Leça (Marginal) - Estádio do Dragão,3
+5018,UT1,400,Angeiras - Senhora da Hora (Metro) (via MAR Shopping),3
+5019,UT1,401,Vilar do Pinheiro (Metro) - Lavra (via Angeiras),3
+5020,UT1,402,Aeroporto - Agudela,3
+5021,UT1,403,Aeroporto (Botica Metro) - Sete Bicas (Metro) (via Senhora da Hora),3
+5022,UT1,404,Paiço - Aeroporto,3
+5023,UT1,571,Matosinhos Câmara - Maia (Fórum),3
+5024,UT1,490,Lionesa - Boavista (Casa da Música),3
+5101,UT1,405,Noturna | Cabanelas - Sete Bicas (Metro),3
+5102,UT1,406,Noturna | Aeroporto (Botica Metro) - Padrão da Légua,3
+5103,UT1,407,Noturna | MAR Shopping - Polo Universitário,3
+5104,UT1,399,Noturna | Valongo (Estação) - Matosinhos (Mercado) (via Ermesinde),3
+6001,UT1,247,Frejufe - Maia (Centro) (via Catassol),3
+6003,UT1,257,Circular | Maia (Fórum) (via Aeroporto e Zona Industrial),3
+6004,UT1,481,Circular | Maia (Fórum) (via Aeroporto e Zona Industrial),3
+6005,UT1,260,Maia (Espido) - Hospital São João,3
+6006,UT1,244,Nogueira - Maia (Centro) (via Milheirós),3
+6007,UT1,255,S. Pedro de Avioso - Ermesinde (Estação),3
+6008,UT1,249,S. Romão (Escola) - Aeroporto (via Maia Shopping),3
+6009,UT1,258,Vila Nova da Telha - Maia (Centro),3
+6010,UT1,254,Alto de Rindo - Maia (Centro) (via Castêlo da Maia),3
+6011,UT1,261,Vilar da Luz - Hospital São João,3
+6012,UT1,252,Areosa - TECMAIA,3
+6013,UT1,245,Alfena (Escola) - Maia (Centro),3
+6014,UT1,259,Vilar da Luz (Aeródromo) - Maia (Espido),3
+6015,UT1,527,Folgosa (Igreja) - Nogueira (Escola) (via Ardegães),3
+6016,UT1,528,Vilar de Luz - Castêlo da Maia,3
+6017,UT1,563,Maia (Centro) - Ermesinde (Estação),3
+6301,UT1,286,Paradela - Souto da Sapateira (via Cidoi),3
+6302,UT1,285,Alvarelhos (Escola) - Souto da Sapateira (via Gueidãos),3
+6303,UT1,281,Paradela - Souto da Sapateira (via Guidões),3
+6304,UT1,290,Trofa (Interface) - Fornelos (via Lantemil),3
+6305,UT1,287,Trofa (Interface) - Polo Universitário (via EN14),3
+6306,UT1,289,Santo Tirso (ERF) - Maia (ISMAI),3
+6307,UT1,291,Santo Tirso (ERF) - Alvarelhos (via Bicho),3
+6308,UT1,284,Trofa (Interface) - Trinaterra,3
+6310,UT1,280,Trofa (Interface) - S. Romão (Escola) (via EN14),3
+6311,UT1,283,Circular | Trofa (Centro),3
+6312,UT1,482,Circular | Trofa (Centro),3
+6313,UT1,282,Famalicão (CCT) - Polo Universitário (via EN14),3
+6314,UT1,418,Cêpa - Lantemil,3
+6315,UT1,419,Santo Tirso (ER) - Guidães (Zona Industrial),3
+6316,UT1,469,Trofa (Interface) - Polo Universitário (pela A3),3
+6601,UT2,296,Santo Tirso (ERF) - Polo Universitário (pela A3),3
+6602,UT2,303,Santo Tirso (ER) - Paços de Ferreira (Centro),3
+6603,UT2,559,Santo Tirso (ERF) - Polo Universitário (pela N105),3
+6604,UT2,297,Santo Tirso (ERF) - Agrela (via Reguenga),3
+6605,UT2,298,Santo Tirso (ERF) - Água Longa (via Refojos),3
+6606,UT2,307,Guimarei - Agrela (Escola),3
+6607,UT2,295,Freamunde (Centro) - INA,3
+6608,UT2,301,Santo Tirso (ERF) - Guimarei (via Lamelas),3
+6609,UT2,306,Santo Tirso (ER) - Raimonda,3
+6610,UT2,304,Vila das Aves (ERF) - Raimonda (via Lordelo Guimarães),3
+6611,UT2,458,Vale Pisão - Agrela (Escola),3
+6612,UT2,294,S. Martinho - Lousada (Esc. Lustosa),3
+6613,UT2,293,Lousada (Centro) - Polo Universitário (pela A3),3
+6614,UT2,292,Água Longa - ARTAVE,3
+7001,UT2,315,Valongo (Centro) - Maia (Zona Industrial),3
+7002,UT2,316,Alfena (Ogueiros) - Valongo (Biblioteca),3
+7003,UT2,314,Codiceira - Quinta da Lousa,3
+7004,UT2,312,Sobrado (Ponte Açude) - Polo Universitário (via Formiga / Santa Rita),3
+7005,UT2,318,Penafiel (Milhundos) - Susão (Estação),3
+7006,UT2,311,Sobrado de Cima - Valongo (Biblioteca) (via Estádio do Sobrado),3
+7007,UT2,320,Penafiel (Centro) - Polo Universitário (pela A4 Valongo),3
+7008,UT2,309,Lordelo (Igreja) - Polo Universitário (pela A4),3
+7009,UT2,313,Gandra (CESPU) - Estádio do Dragão,3
+7010,UT2,310,Gandra (CESPU) - Valongo (João de Castro) (via Retorta),3
+7011,UT2,319,Campo (Padre Américo) - Ermesinde (Estação),3
+7012,UT2,427,Circular | Ermesinde (Estação),3
+7013,UT2,483,Circular | Ermesinde (Estação),3
+7014,UT2,581,Sobrado de Cima - Ermesinde (Estação) (via Valongo),3
+7015,UT2,582,Campo (Retorta) - Susão (Estação),3
+7301,UT2,343,Modelos - Paredes (Centro),3
+7302,UT2,337,Paredes (Centro) - Gandra (CESPU) (via Vilela),3
+7303,UT2,325,Baltar (Centro Escolar) - Gandra (CESPU) (via Cristelo),3
+7304,UT2,340,Paredes (Centro) - Baltar (Centro Escolar) (via Cristelo),3
+7305,UT2,342,Modelos - Polo Universitário (via Lordelo),3
+7306,UT2,324,Paredes (Centro) - Lordelo (Parteira),3
+7307,UT2,333,Cristelo (Escola) - Gandra (CESPU),3
+7308,UT2,349,Paços de Ferreira (Centro) - Paredes (Centro) (via Lordelo),3
+7309,UT2,335,Paços de Ferreira (Centro) - Susão (Estação) (via Seroa e Lordelo),3
+7310,UT2,334,Paços de Ferreira (Centro) - Paredes (Centro) (via Sobrosa),3
+7311,UT2,329,Paços de Ferreira (Escola) - Paredes (Centro) (via Duas Igrejas),3
+7312,UT2,328,Paços de Ferreira (Escola) - Paredes (Centro) (via Freamunde),3
+7313,UT2,352,Paços de Ferreira (Escola) - Paredes (Centro) (via Beire),3
+7314,UT2,345,Lousada (Nevogilde) - Paredes (Centro) (via Gondalães),3
+7315,UT2,327,Paredes (Escolas) - Melres (via Hosp. Tâmega e Sousa),3
+7316,UT2,346,Sobreira (Vilar) - Campo (Balselhas),3
+7317,UT2,332,Circular | Paredes (via Hosp. Tâmega e Sousa),3
+7318,UT2,484,Circular | Paredes (via Hosp. Tâmega e Sousa),3
+7319,UT2,322,Baltar (Centro Escolar) - Recarei (Valvide) (via Cete),3
+7320,UT2,331,Recarei/Sobreira (Estação) - Susão (Estação),3
+7321,UT2,347,Lousada (Centro) - Susão (Estação) (via Hosp. Tâmega e Sousa),3
+7322,UT2,344,Paredes (Centro) - Polo Universitário (pela A4),3
+7323,UT2,330,Sobreira (Santa Comba) - Recarei/Sobreira (Estação),3
+7324,UT2,326,Penafiel (Milhundos) - Polo Universitário (pela A4 Gandra),3
+7325,UT2,321,Baltar (Centro Escolar) - Campo (Hosp. S. Martinho) (via Vilarinho de Baixo),3
+7326,UT2,350,Paredes (Centro) - Baltar (Centro Escolar) (via Cete),3
+7327,UT2,348,Baltar (Centro Escolar) - Sobrado de Baixo,3
+7328,UT2,336,Baltar (Centro Escolar) - Guardão,3
+7329,UT2,338,Baltar (Centro Escolar) - Vilarinho de Cima,3
+7330,UT2,323,Guardão - Valongo (Estação) (via Sobrado),3
+7331,UT2,341,Blatar (Centro Escolar) - Recarei/Sobreira (Estação),3
+7332,UT2,339,Sobreira (Casconha) - Polo Universitário (pela A4),3
+7333,UT2,351,Paços de Ferreira (Centro) - Susão (Estação) (via Lordelo),3
+7334,UT2,410,Paços de Ferreira (Centro) - Vilela,3
+7335,UT2,455,Cristelo (Escola) - Baltar (Centro Escolar) (via Moinhos),3
+7336,UT2,503,Modelos - Polo Universitário (via Alto de Vila) (pela A4),3
+8002,UT2,376,Canedo (Escola) - Areja,3
+8003,UT2,361,Ervedosa - Beloi,3
+8004,UT2,366,Gramido - Campanhã (Estação),3
+8005,UT2,371,Valongo (Estação) - Gondomar (Souto),3
+8006,UT2,359,Gens - Gondomar (Souto) (via S. Pedro da Cova),3
+8007,UT2,368,Lomba - Hospital Fernando Pessoa (via Canedo),3
+8008,UT2,375,Aguiar de Sousa - Gondomar (Souto),3
+8009,UT2,363,Medas - Campanhã (Estação),3
+8010,UT2,372,Jovim - Hospital Fernando Pessoa (via Vessada),3
+8011,UT2,362,Sobreira (Santa Comba) - Hospital Fernando Pessoa,3
+8012,UT2,378,Ervedosa - Hospital Fernando Pessoa,3
+8013,UT2,357,Gondomar (Souto) - Estádio do Dragão,3
+8014,UT2,380,Covelo - Gondomar (Souto),3
+8015,UT2,364,Vilarinho - Hospital Fernando Pessoa,3
+8016,UT2,377,Sarnada - Campanhã (Estação) (pela Marginal),3
+8017,UT2,354,Fânzeres (Montezelo) - Campanhã (Estação) (via Centro de Saúde),3
+8018,UT2,356,Broalhos - Foz do Sousa,3
+8019,UT2,369,Gondomar (Souto) - Campanhã (Estação) (via EN209),3
+8020,UT2,353,Baguim - Estádio do Dragão,3
+8021,UT2,370,Jovim - Gondomar (Souto),3
+8022,UT2,373,Hospital Fernando Pessoa - Hospital São João,3
+8023,UT2,360,Seixo - Estádio do Dragão,3
+8024,UT2,358,Broalhos - Gondomar (Souto),3
+8025,UT2,381,Ermesinde (Estação) - Estádio do Dragão,3
+8026,UT2,367,Porqueira - Hospital Fernando Pessoa,3
+8027,UT2,355,Sebolido - Campanhã (Estação),3
+8028,UT2,365,Circular | Campanhã (Estação) (pela Marginal),3
+8029,UT2,379,Circular | Campanhã (Estação) (por Vila Verde),3
+8030,UT2,374,Circular | Gondomar (Centro) (via Alto de Soutelo),3
+8031,UT2,485,Circular | Gondomar (Centro) (via Alto de Soutelo),3
+8032,UT2,383,Valongo (Centro) - Parque Nascente (via Rio Tinto),3
+8033,UT2,444,Baguim - Areias,3
+8034,UT2,445,S. Pedro da Cova - Parque Nascente,3
+8035,UT2,446,Gondomar (Souto) - Hospital São João,3
+8036,UT2,449,Circular | Gondomar (Souto) (via Valbom),3
+8037,UT2,486,Circular | Gondomar (Souto) (via Valbom),3
+8038,UT2,448,Circular | Gondomar (Souto) (via Foz do Sousa),3
+8039,UT2,487,Circular | Gondomar (Souto) (via Foz do Sousa),3
+8040,UT2,450,Forno (Escola da Boucinha) - Hospital São João (via Estação Rio Tinto),3
+8041,UT2,504,Gondomar (Souto) - Campanhã (Estação) (via Vila Verde),3
+3001,UT3,108,Paranho - Portas Fronhas (Metro) (via Travassos),3
+3002,UT3,110,Agra - Portas Fronhas (Metro) (via Giesteira),3
+3003,UT3,89,Balazar - Portas Fronhas (Metro) (via Guardães),3
+3004,UT3,112,Balazar - Portas Fronhas (Metro) (via Águas Férreas),3
+3005,UT3,84,Águas Férreas - Portas Fronhas (Metro) (via Barranha),3
+3006,UT3,106,Esposende (CCT) - Portas Fronhas (Metro) (via Aguçadora),3
+3301,UT3,92,Aguçadoura - Vila do Conde (Metro),3
+3302,UT3,116,Amorim (Zona Industrial) - Areia / Varziela (Metro),3
+3304,UT3,99,Circular | Póvoa de Varzim,3
+3305,UT3,477,Circular | Póvoa de Varzim,3
+3306,UT3,93,Circular | Vila do Conde,3
+3307,UT3,478,Circular | Vila do Conde,3
+3308,UT3,96,Póvoa de Varzim (CCT) - Vila do Conde (Centro),3
+3309,UT3,494,Póvoa de Varzim (CCT) - Vila do Conde (Centro) (via Escolas),3
+3501,UT3,77,Tougues - Vila do Conde (Centro) (via Retorta),3
+3502,UT3,115,Tougues - Vila do Conde (Escolas) (via Azurara),3
+3503,UT3,86,Póvoa de Varzim (CCT) - Polo Universitário,3
+3504,UT3,111,Santo Tirso (ERF) - Póvoa de Varzim (CCT),3
+3505,UT3,105,Famalicão (CCT) - Vila do Conde (Centro),3
+3506,UT3,87,Vila do Conde (Centro) - Maia (Centro),3
+3507,UT3,95,Famalicão (CCT) - Vila do Conde (Centro) (via Escolas),3
+3508,UT3,81,Vila do Conde (Centro) - Vilar do Pinheiro (Metro),3
+3509,UT3,79,Vila do Conde (Centro) - Guilhabreu (via Vilarinho),3
+3510,UT3,78,Vila do Conde (Centro) - Vilar do Pinheiro (Metro) (via Praia de Mindelo),3
+3511,UT3,90,Outeiro Maior - Vila do Conde (Escolas),3
+3512,UT3,80,Mindelo (Escola) - Arões,3
+3513,UT3,91,Vila do Conde (Escolas) - Vilar do Pinheiro (via Vairão),3
+3514,UT3,102,Junqueira - Vila do Conde (Escolas) (via Seixo),3
+3516,UT3,97,Parada - Vila do Conde (Escolas) (via Lamelas),3
+3517,UT3,107,Fontaínhas - Vila do Conde (Escolas) (via Junqueira),3
+3518,UT3,88,Mindelo (Escola) - Vilar do Pinheiro (Metro) (via Carvalhido),3
+3519,UT3,94,Vila de Conde (Centro) - Guilhabréu (via Fajozes),3
+3521,UT3,101,Ferreiró - Vila do Conde (Escolas),3
+3522,UT3,109,Ribeirinha (Escola) - Vilar do Pinheiro (Metro) (via Souto da Sapateira),3
+3523,UT3,100,Ribeirinha (Escola) - Vilar do Pinheiro (Metro) (via Malta),3
+3524,UT3,98,Fornelo - Vila do Conde (Centro),3
+3525,UT3,104,Ribeirinha (Escola) - Varziela (Zona Industrial) (via Tresval),3
+3528,UT3,459,Ribeirinha (Escola) - Vila do Conde (Escolas),3
+3529,UT3,462,Souto da Sapateira - Vila Chã (via Modivas Centro Metro),3
+3530,UT3,463,Modivas Centro (Metro) - Gião (via EN306),3
+3531,UT3,464,Fashion Outlet (Metro) - Modivas Sul (Metro) (via Vila Chã e Praia de Labruge),3
+3532,UT3,465,Guilhabreu - Modivas Sul (Metro),3
+3533,UT3,466,Vairão - Mindelo (Praia),3
+9001,UT4,1,Areinho - Devesas (Estação),3
+9002,UT4,2,Areinho - Parque das Camélias,3
+9003,UT4,39,Areinho - Gaia Shopping,3
+9004,UT4,38,Madalena - Boavista (Casa da Música),3
+9005,UT4,3,Francelos (Estação) - João de Deus (Metro),3
+9006,UT4,4,Freixieiro - João de Deus (Metro),3
+9007,UT4,5,Freixieiro - Parque das Camélias (via Gervide),3
+9008,UT4,6,Agros - D. João II (Metro) (via Hospital Santos Silva),3
+9009,UT4,7,Póvoa de Baixo - Carvalhos (Esc. Padre António Luís Moreira),3
+9010,UT4,62,Olival - Espinho (Estação Vouga),3
+9011,UT4,8,Suil Park - D. João II (Metro),3
+9012,UT4,9,Lavadores (Praia) - Parque das Camélias,3
+9013,UT4,10,Lavadores (Praia) - Jardim do Morro,3
+9014,UT4,11,Santo Ovídio - Lavadores (Praia),3
+9015,UT4,12,Afurada - Parque das Camélias,3
+9016,UT4,13,Salgueiros (Praia) - Jardim do Morro,3
+9017,UT4,14,Chãos Vermelhos - Jardim do Morro,3
+9018,UT4,15,Afurada - Boavista (Casa da Música),3
+9019,UT4,16,Santo Ovídio - Salgueiros (Praia),3
+9020,UT4,17,Circular | Santo Ovídio (via Laborim),3
+9021,UT4,18,Gaia (Câmara) - Chãos Vermelhos (via marginal),3
+9022,UT4,19,Pedroso - D. João II (Metro),3
+9023,UT4,20,Outeiro - Carvalhos (Feira),3
+9024,UT4,21,Pisão - D. João II (Metro),3
+9025,UT4,22,Vilar de Andorinho - D. João II (Metro),3
+9026,UT4,23,Crestuma (Igreja) - D. João II (Metro),3
+9027,UT4,24,Canedo - D. João II (Metro) (via Lever),3
+9028,UT4,25,Lomba - D. João II (Metro) (via Lever pela N222),3
+9029,UT4,26,Canedo - D. João II (Metro) (via Crestuma),3
+9030,UT4,27,Mota - D. João II (Metro),3
+9031,UT4,28,Louredo - D. João II (Metro),3
+9032,UT4,29,Sá - D. João II (Metro),3
+9033,UT4,30,Várzea - D. João II (Metro),3
+9034,UT4,31,Olival (Escola) - Arnelas,3
+9035,UT4,32,Sandim (Mosteiro) - Carvalhos (Esc. Padre António Luís Moreira),3
+9036,UT4,33,Canedo (Escola) - Olival (Escola),3
+9037,UT4,34,Lever (Portelinha) - Olival (Escola),3
+9038,UT4,37,Camalhões - Espinho (Esc. Dr. Manuel Gomes de Almeida),3
+9039,UT4,35,Alheira - João de Deus (Metro),3
+9040,UT4,36,Espinhaço - D. João II (Metro),3
+9041,UT4,40,Avintes - D. João II (Metro),3
+9042,UT4,41,Crestuma (Igreja) - VNGaia (Vila d'Este),3
+9043,UT4,42,Carvalhos (Feira) - Avintes,3
+9044,UT4,43,Olival (Igreja) - Carvalhos (Esc. Padre António Luís Moreira),3
+9045,UT4,44,Miramar - João de Deus (Metro),3
+9046,UT4,45,Espinho (Estação Vouga) - Rechousa,3
+9047,UT4,46,Espinho (Estação Vouga) - Arcozelo,3
+9048,UT4,47,Vendas de Grijó - Centro Reabilitação do Norte,3
+9049,UT4,48,Aldriz (Rua de São Pedro) - Carvalhos (Bombas),3
+9050,UT4,49,Vendas de Grijó - D. João II (Metro) (via Mosteiro),3
+9051,UT4,50,Vendas de Grijó - Carvalhos (Bombas) (via Sermonde),3
+9052,UT4,73,Lavadores (Praia) - Parque das Camélias (via GaiaShopping),3
+9053,UT4,64,Grijó (Outlet) - Carvalhos (Feira),3
+9054,UT4,51,Carvalhos (Feira) - Aguda,3
+9055,UT4,52,Carvalhos (Feira) - D. João II (Metro) (via Canelas),3
+9056,UT4,53,Carvalhos (Feira) - Miramar,3
+9057,UT4,54,Carvalhos (Feira) - D. João II (Metro) (via Sra. do Monte),3
+9058,UT4,55,Espinho (Estação Vouga) - Parque das Camélias,3
+9059,UT4,56,Olival (Escola) - Carvalhos (Esc. Padre António Luís Moreira),3
+9060,UT4,57,Espinho (Estação Vouga) - Carvalhos (Feira),3
+9061,UT4,58,Póvoa de Baixo - D. João II (Metro),3
+9062,UT4,59,Carvalhos (Feira) - D. João II (Metro) (via S. Lourenço),3
+9063,UT4,60,Olival (Escola) - Carvalhos (Esc. Padre António Luís Moreira) (via Tabosa),3
+9064,UT4,75,Carvalhos (Feira) - D. João II (Metro) (pela A1),3
+9065,UT4,76,Carvalhos (Feira) - D. João II (Metro) (via Rechousa),3
+9066,UT4,65,Alheira - Gaia Shopping,3
+9067,UT4,66,Vila d'Este - Freixieiro,3
+9068,UT4,69,Circular | Areinho,3
+9069,UT4,70,Lijó - D. João II (Metro) (via Hosp. Santos Silva),3
+9070,UT4,67,Arnelas - D. João II (Metro),3
+9071,UT4,63,Carvalhos (Feira) - D. João II (Metro) (via Venda de Baixo),3
+9072,UT4,74,Valadares (Escola) - D. João II (Metro),3
+9073,UT4,71,Vila d'Este - D. João II (Metro),3
+9074,UT4,72,Espinho (Estação Vouga) - Vendas de Grijó,3
+9075,UT4,68,Grijó (Outlet-Park&Ride) - Crestuma (via Sandim),3
+9076,UT4,432,Grijó (Sto. António) - D. João II (Metro) (via Grijó Outlet pela A1),3
+9077,UT4,433,Avintes - D. João II (Metro) (via N222),3
+9078,UT4,429, Lavadores (via Coimbrões),3
+9079,UT4,488, Lavadores (via Coimbrões),3
+9080,UT4,434,Póvoa de Baixo - Aguda,3
+9081,UT4,447,Canelas de Cima - D. João II (Metro),3
+9082,UT4,500,Serzedo - Jardim do Morro,3
+9083,UT4,505,Baiza - D. João II (Metro),3
+9084,UT4,507,Circular | Olival (Escola),3
+9085,UT4,508,Póvoa de Grijó - Jardim do Morro,3
+9086,UT4,509,Canelas (Escola) - Jardim do Morro,3
+9087,UT4,568,Areinho - João de Deus (Metro),3
+9501,UT4,236,Circular | Espinho (Estação Vouga) (via Anta),3
+9502,UT4,239,Circular | Espinho (Estação Vouga) (via Silvalde),3
+9503,UT4,489,Circular | Espinho (Estação Vouga) (via Silvalde),3
+9504,UT4,243,Anta (Centro Escolar) - Espinho (Estação Vouga),3
+9505,UT4,240,Espinho (Estação Vouga) - Carvalhos (Feira),3
+9506,UT4,237,Esmoriz (Praia) - Espinho (Estação Vouga),3
+9507,UT4,238,Guetim - Espinho (Estação Vouga) (via Lameiro),3
+9508,UT4,241,Lapa (Apeadeiro) - Espinho (Estação Vouga),3
+9509,UT4,242,Paramos (Praia) - Espinho (Estação Vouga),3
+9510,UT4,235,Espinho (Estação Vouga) - Carvalhos (Feira) (via Sermonde),3
+9511,UT4,495,Espinho (Estação Vouga) - Campanhã (Estação) (pela A29),3
+1001,UT5,130,Arouca (CCT) - Cabeçais (via Tropeço),3
+1002,UT5,131,Arouca (CCT) - Lourosa/Fiães (Interface),3
+1003,UT5,134,Arouca (CCT) - S. João da Madeira (CCT) (via Escariz),3
+1004,UT5,124,Arouca (CCT) - Parque das Camélias (pela A32),3
+1005,UT5,132,Arouca (Chão de Ave) - Escariz (EBS) (via Agras),3
+1006,UT5,118,Carregosa - Arouca (Mosteirô) (via Cesar),3
+1007,UT5,127,Arouca (CCT) -  S. João da Madeira (CCT) (via Carregosa),3
+1008,UT5,137,Arouca (CCT) - Noninha,3
+1009,UT5,123,Arouca (CCT) - Arouca (Canelas) (via Vila Cova),3
+1010,UT5,139,Arouca (CCT) - Vila Viçosa,3
+1011,UT5,140,Arouca (CCT) - Fuste,3
+1012,UT5,128,Arouca (CCT) - Rio de Frades,3
+1013,UT5,135,Arouca (CCT) - Albergaria da Serra,3
+1015,UT5,141,Cela - São João da Madeira (CCT),3
+1016,UT5,129,Arouca (CCT) - Vale de Cambra (CCT),3
+1019,UT5,451,Arouca (CCT) - Regoufe (por Covêlo de Paivó),3
+1020,UT5,453,Rossio (Zona Industrial) - Escariz (EBS),3
+1021,UT5,467,Arouca (CCT) - Cabeçais (via Rossas),3
+1022,UT5,501,Arouca (CCT) - Campanhã (Estação) (pela A32),3
+1023,UT5,502,Arouca (CCT) - S. João da Madeira (CCT) (pela variante à EN326),3
+1024,UT5,526,Arouca (CCT) - Monte Moção,3
+1025,UT5,530,Londral - Escariz (EBS) (via Carvalhal Redondo),3
+1201,UT5,529,O. Azeméis (Esc. Dr. Ferreira da Silva) - Ul (Igreja) (via São Roque),3
+1202,UT5,222,O. Azeméis (Graciosa) - Loureiro (Escola),3
+1203,UT5,227,São João da Madeira (CCT) - Ovar (Estação) (pela N327),3
+1204,UT5,223,Vilarinho S. Luís - O. Azeméis (Escola Soares Basto) (via Palmaz),3
+1206,UT5,225,Pinheiro da Bemposta - O. Azeméis (Escola Soares Basto) (via Ferreiros),3
+1207,UT5,228,Fajões - São João da Madeira (CCT),3
+1208,UT5,232,S. João da Madeira (CCT) - Ovar (Estação) (via S. Vicente),3
+1209,UT5,213,Vale de Cambra (CCT) - O. Azeméis (Escola Soares Basto),3
+1210,UT5,218,O. Azeméis (Escola Soares Basto) - O. Azeméis (Cesar) (via Carregosa),3
+1211,UT5,219,O. Azeméis (Escola da Carregosa) - S. João da Madeira (CCT) (via Fajões),3
+1212,UT5,216,São Martinho da Gândara - S. João da Madeira (CCT),3
+1213,UT5,224,Pinheiro da Bemposta - S. João da Madeira (CCT),3
+1214,UT5,231,O. Azeméis (Escola Soares Basto) - Fajões (via Gândara),3
+1215,UT5,226,Vale de Cambra (CCT) - S. João da Madeira (CCT),3
+1216,UT5,217,O. Azeméis (Centro) - S. João da Madeira (CCT) (via Cucujães),3
+1217,UT5,211,O. Azeméis (Centro) - Estarreja (Estação),3
+1218,UT5,229,Vale de Cambra (CCT) - O. Azeméis (Escola Soares Basto) (via Carregosa),3
+1219,UT5,230,O. Azeméis (Escola Soares Basto) - Casa-Museu F. Castro,3
+1220,UT5,212,O. Azeméis (Centro) - Parque das Camélias (pela A32),3
+1221,UT5,221,S. Martinho da Gândara - S. João da Madeira (CCT) (via Felgueira),3
+1222,UT5,215,Vale de Cambra (CCT) - S. João da Madeira (CCT) (via Z.I. Lordelo-Codal),3
+1223,UT5,209,O. Azeméis (Centro) - Parque das Camélias (via Vale de Cambra pela A32),3
+1225,UT5,214,O. Azeméis (Esc. Loureiro) - São Martinho da Gândara,3
+1226,UT5,210,O. Azeméis (Escola da Carregosa) - Rossio (Zona Industrial) (via Teamonde),3
+1228,UT5,416,O. Azeméis (Escola Loureiro) - São Martinho da Gândara,3
+1229,UT5,506,Pinhão - Fajões (Escola),3
+1230,UT5,412,Circular | TUAZ Laranja,3
+1240,UT5,413,Circular | TUAZ Verde (via Santiago de Riba Ul),3
+1241,UT5,438,Circular | TUAZ  Verde (via S.Roque),3
+1243,UT5,436,Circular | TUAZ Verde (via Ferreiros),3
+1244,UT5,437,Circular | TUAZ Verde (via Ossela),3
+1401,UT5,199,Santa Maria da Feira (Escolas) - Duas Igrejas,3
+1402,UT5,200,Circular | S. João da Madeira (via Outeiro),3
+1403,UT5,471,Circular | S. João da Madeira (via Outeiro),3
+1404,UT5,197,Circular | S. João da Madeira (via Pigeiros),3
+1405,UT5,472,Circular | S. João da Madeira (via Pigeiros),3
+1406,UT5,198,Circular | S. João da Madeira (via Cucujães),3
+1407,UT5,473,Circular | S. João da Madeira (via Cucujães),3
+1408,UT5,194,S. J. Madeira (CCT) - Carvalhos (Esc. Padre António Luís Moreira),3
+1409,UT5,195,S. João da Madeira (CCT) - Santa Maria da Feira (Escolas),3
+1410,UT5,193,S. João da Madeira (CCT) - Campanhã (Estação) (pela A32),3
+1411,UT5,196,Aveiro (CCT) - S. João da Madeira (CCT) (pela A29),3
+1601,UT5,206,Viadal - Vale de Cambra (CCT),3
+1602,UT5,203,Carvalhal do Chão - Vale de Cambra (CCT) (via Paraduça),3
+1603,UT5,205,Casal Velide - Vale de Cambra (CCT),3
+1604,UT5,208,Vale de Cambra (CCT) - Rossio (Zona Industrial),3
+1605,UT5,204,Póvoa Junqueira - Vale de Cambra (CCT) (via Cabanes),3
+1606,UT5,207,Vale de Cambra (Vila Nova) - Vale de Cambra (CCT) (via Cavião),3
+1607,UT5,201,Baralhas - Vale de Cambra (CCT),3
+2001,UT5,143,Lázaro - Lourosa/Fiães (Interface) (via Esc. de Escariz),3
+2002,UT5,187,Rio Meão - Sandim (Mosteiro),3
+2003,UT5,179,S. Maria da Feira (Zona Comercial) - Mosteirô,3
+2004,UT5,184,Mozelos - Fiães (Escola) (via Paços de Brandão),3
+2005,UT5,145,S. Maria da Feira (Escolas) - Mota,3
+2006,UT5,164,Valada - S. Maria da Feira (Esc. Paços de Brandão),3
+2007,UT5,150,Fiães (Escola) - Espinho (Hospital) (via Largo da Feira),3
+2008,UT5,167,Circular | Canedo,3
+2009,UT5,474,Circular | Canedo,3
+2010,UT5,156,Pigeiros - Lourosa/Fiães (Interface),3
+2011,UT5,162,S. Maria da Feira (Escolas) - Argoncilhe (Escola),3
+2012,UT5,152,Argoncilhe (Escola) - Lever,3
+2013,UT5,183,Castelo de Paiva (Centro) - Espinho (Hospital),3
+2014,UT5,154,S. Maria da Feira (Souto) - S. Maria da Feira (Hospital) (via Travanca),3
+2015,UT5,151,S. Maria da Feira (Souto) - S. Maria da Feira (Hospital) (via Matos),3
+2016,UT5,163,Circular | Lourosa/Fiães (Interface),3
+2017,UT5,475,Circular | Lourosa/Fiães (Interface),3
+2018,UT5,157,Rebordelo - Lourosa/Fiães (Interface) (via Vale),3
+2019,UT5,155,S. Maria da Feira (Zona Comercial) - Lourosa/Fiães (Interface),3
+2021,UT5,182,S. João da Madeira (CCT) - Canedo (Escola) (via Caldas de S. Jorge),3
+2022,UT5,170,Milheirós de Poiares - Pigeiros,3
+2023,UT5,192,Mozelos – Lourosa (Escola) (via Suil Park),3
+2024,UT5,186,Argoncilhe (Escola) - Espinho (Hospital),3
+2026,UT5,147,S. João da Madeira (CCT) - Parque das Camélias (pela A1),3
+2027,UT5,149,S. Maria da Feira (Zona Comercial) - Nogueira da Regedoura,3
+2028,UT5,160,Carrascal - Espinho (Hospital),3
+2029,UT5,148,S. Maria da Feira (Centro) - Carvalhos (Esc. Padre António Luís Moreira),3
+2030,UT5,166,Ovar (Arada) - Espinho (Hospital),3
+2031,UT5,189,S. M. Feira (Zona Comercial) - Espinho (Hospital),3
+2032,UT5,185,Lamas - Sandim,3
+2033,UT5,168,Lamas - Espinho (Hospital) (via Anta),3
+2034,UT5,188,Cabeçais - S. João da Madeira (CCT),3
+2035,UT5,159,S. João da Madeira (CCT) - Pessegueiro do Vale,3
+2036,UT5,144,S. João da Madeira (CCT) - Ovar (Estação) (por S. Maria da Feira),3
+2037,UT5,161,S. Maria da Feira (Souto) - S. Maria da Feira (Biblioteca) (via Travanca),3
+2038,UT5,146,S. Maria da Feira (Souto) - S. Maria da Feira (Biblioteca) (via Mosteirô),3
+2040,UT5,153,S. João da Madeira (CCT) - S. Maria da Feira (Hospital) (via Mosteirô Z.I.),3
+2041,UT5,181,Mosteirô - Cavaco,3
+2042,UT5,142,Cavaco - Lamas,3
+2043,UT5,171,Monte Grande (Zona Industrial) - Espinho (Hospital),3
+2044,UT5,172,Areias - S. Maria da Feira (Esc. Corga),3
+2045,UT5,174,Guisande - Lourosa/Fiães (Interface),3
+2046,UT5,169,Nogueira da Regedoura - Boavista (Casa da Musica) (pela A1),3
+2047,UT5,176,S. Maria da Feira (Zona Comercial) - Cortegaça,3
+2048,UT5,177,Cabeçais - Lourosa/Fiães (Interface),3
+2049,UT5,178,Lourosa/Fiães (Interface) - Argoncilhe (Escola),3
+2050,UT5,180,Mota - Canedo (Escola),3
+2051,UT5,173,Argoncilhe (Escola) - Vendas de Grijó,3
+2052,UT5,175,Argoncilhe - Espinho (Hospital),3
+2053,UT5,415,Duas Igrejas - Milheirós de Poiares,3
+2054,UT5,430,Circular | S. Maria da Feira (Zona Comercial) (via Europarque),3
+2056,UT5,431,Romariz - S. Maria da Feira (Hospital) (via Milheirós de Poiares),3
+2057,UT5,498,Fiães (Escola) - Argoncilhe (Escola),3
+2058,UT5,499,Canedo (Escola) - Fiães (Escola),3
+2100,UT5,417,Transfeira,3
